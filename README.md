@@ -64,7 +64,7 @@ The Power BI dashboard surfaces:
 - **Sales by Age Group** and **Revenue by Age Group** — bar charts
 - **Interactive filters:** subscription status, gender, category, shipping type
 
-![Dashboard Preview](Screenshot_2026-09-17_103759.png)
+![Dashboard Preview](Customer_Behavior.png)
 
 ## Results & Key Insights
 - Only 27% of customers are active subscribers, yet the segment is worth examining further for retention opportunities.
